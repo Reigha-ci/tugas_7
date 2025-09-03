@@ -7,7 +7,7 @@ while ($i < 500) {
  echo "
     <tr>
         <td>".$i."</td>
-        <td>azza ".$i."</td>
+        <td>reigha".$i."</td>
     </tr>";
   $i++;
 }

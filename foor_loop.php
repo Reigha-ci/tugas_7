@@ -8,7 +8,7 @@ for ($i = 1; $i < 500; $i++) {
     echo "
     <tr>
         <td>".$i."</td>
-        <td>azza ".$i."</td>
+        <td>reigha ".$i."</td>
     </tr>";
 }
 ?>
